@@ -12,7 +12,7 @@ document.getElementById("enterBtn")
 
 /* machine à écrire */
 
-const text = "Notre Histoire ❤️";
+const text = "Notre Histoire";
 let i = 0;
 
 function typeWriter() {
